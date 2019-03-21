@@ -17,3 +17,15 @@ h1 {
   border-color: #000;
   background-color: #000;
 }
+
+@media onlu screen and (min-width: 60em) {
+
+  .pad-1 {
+    padding-left: .5em;
+  }
+
+  .pad-r {
+    padding-right: .5rem;
+  }
+
+}
